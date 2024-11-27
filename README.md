@@ -27,7 +27,7 @@ Another question :
 const prompt = "Make a summary from last months in 2024 and future year 2025, about hardware changes with iCPU AMD.";
 ```
 
-... has this result:
+... has this result with the <b><i>old data from 2023</i></b>:
 
 ```
 node index.js
