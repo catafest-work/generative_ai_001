@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0"
+  },
+  "name": "generative_ai_001",
+  "version": "1.0.0",
+  "description": "test generative ai from google ",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "catafest",
+    "catafest-work",
+    "google",
+    "ai",
+    "generative"
+  ],
+  "author": "catafest",
+  "license": "ISC"
+}
